@@ -20,7 +20,8 @@ Data Source - https://insights.stackoverflow.com/survey
 4. conda info --envs
 5. conda env list
 6. conda activate stackoverflow-developer-survey-env
-7. conda deactivate
+7. jupyter notebook
+8. conda deactivate
 
 ## Business Questions (How Data could be used)
 1.
