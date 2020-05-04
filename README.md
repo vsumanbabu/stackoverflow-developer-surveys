@@ -14,9 +14,15 @@ Process Used - Cross Industry Process for Data Mining (CRISP-DM)
 Data Source - https://insights.stackoverflow.com/survey
 
 ## Setup
-
+1. Install Miniconda - https://docs.conda.io/en/latest/miniconda.html
+2. conda env remove -n stackoverflow-developer-survey-env
+3. conda env create -f stackoverflow-developer-survey-env.yaml
+4. conda info --envs
+5. conda env list
+6. conda activate stackoverflow-developer-survey-env
+7. conda deactivate
 
 ## Business Questions (How Data could be used)
 1.
 2.
-3. 
+3.
