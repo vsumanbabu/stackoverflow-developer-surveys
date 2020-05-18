@@ -24,6 +24,11 @@ Data Source - https://insights.stackoverflow.com/survey
 8. conda deactivate
 
 ## Business Questions (How Data could be used)
-1.
-2.
-3.
+1.) What are the most desired Platforms next year (2020)?
+2.) What are the most desired Databases next year (2020)?
+3.) What are the most desired Programming Languages next year (2020)?
+4.) What are the most desired Web Frameworks next year (2020)?
+5.) What are the most used Dev environments currently (2019)?
+
+## Run the Notebook
+MostDesiredSoftwares.ipynb ( https://github.com/vsumanbabu/stackoverflow-developer-surveys/blob/master/main/MostDesiredSoftwares.ipynb )
